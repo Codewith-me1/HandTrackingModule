@@ -17,22 +17,12 @@ This repository contains a Python-based Hand Tracking Module that enables real-t
  <li> <h4> OpenCV </h4> </li> 
  <li> <h4>MediaPipe </h4> </li>
 </ul>
-How to Use:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Codewith-me1/hand-tracking-module.git
-Install the required dependencies:  
-bash
-Copy code
-pip install -r requirements.txt
-Run the example script to see the hand tracking in action:
-bash
-Copy code
-python hand_tracking_example.py
-Applications:
-Virtual Mouse or Keyboard
-Hand Gesture-based UI Navigation
-Robotics
-Gaming or Virtual Reality Interaction
+
+<h3>Applications: </h3>
+<ul>
+<li> <h4>Virtual Mouse or Keyboard </h4></li>
+<li> <h4>Hand Gesture-based UI Navigation </h4></li>
+<li> <h4>Robotics </h4></li>
+<li> <h4>Gaming or Virtual Reality Interaction </h4></li>
+</ul>
